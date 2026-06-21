@@ -69,3 +69,19 @@ Scatter Plots
 Distribution Plots
 
 These visualizations help understand trends and make data-driven conclusions.
+📋 Project Structure
+ipl-data-analysis/
+│
+├── data/
+│   ├── matches.csv
+│   └── deliveries.csv
+│
+├── notebooks/
+│   └── IPL_Data_Analysis.ipynb
+│
+├── images/
+│   └── visualizations/
+│
+├── requirements.txt
+│
+└── README.md
