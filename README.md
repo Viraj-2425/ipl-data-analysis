@@ -85,3 +85,12 @@ ipl-data-analysis/
 ├── requirements.txt
 │
 └── README.md
+▶️ Running the Project
+
+Open Jupyter Notebook:
+
+jupyter notebook
+
+or run in Google Colab.
+
+Execute all cells to generate insights and visualizations.
