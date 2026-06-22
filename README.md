@@ -94,3 +94,10 @@ jupyter notebook
 or run in Google Colab.
 
 Execute all cells to generate insights and visualizations.
+
+🎯 Learning Outcomes
+
+Through this project, you will learn:
+
+Data Cleaning and Preprocessing
+Exploratory Data Analysis (EDA)
