@@ -101,3 +101,7 @@ Through this project, you will learn:
 
 Data Cleaning and Preprocessing
 Exploratory Data Analysis (EDA)
+Statistical Analysis
+Data Visualization Techniques
+Sports Analytics Fundamentals
+Insight Generation from Real-World Data
