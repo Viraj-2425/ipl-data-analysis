@@ -107,3 +107,5 @@ Sports Analytics Fundamentals
 Insight Generation from Real-World Data
 
 🔮 Future Improvements
+IPL Winner Prediction Model
+
