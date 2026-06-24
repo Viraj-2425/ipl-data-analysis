@@ -87,6 +87,7 @@ ipl-data-analysis/
 ├── requirements.txt
 │
 └── README.md
+
 ▶️ Running the Project
 
 Open Jupyter Notebook:
@@ -97,8 +98,8 @@ or run in Google Colab.
 
 Execute all cells to generate insights and visualizations.
 
-🎯 Learning Outcomes
 
+🎯 Learning Outcomes
 Through this project, you will learn:
 
 Data Cleaning and Preprocessing
