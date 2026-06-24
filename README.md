@@ -61,6 +61,7 @@ Match Insights
 Close matches
 Largest victory margins
 Super Over statistics
+
 📈 Sample Visualizations
 Bar Charts
 Pie Charts
