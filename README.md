@@ -35,6 +35,7 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook / Google Colab
+
 📊 Key Analyses Performed
 Team Performance Analysis
 Most successful IPL teams
