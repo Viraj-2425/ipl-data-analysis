@@ -13,7 +13,7 @@ Team-wise performance analysis
 Player batting statistics
 Bowling performance insights
 Toss impact on match results
-Venue analysis
+
 Winning trends and patterns
 Data visualization using graphs and charts
 📂 Dataset
